@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">shopee</string>
+    <string name="nav_open">abrindo menu</string>
+    <string name="nav_close">fechando menu</string>
 </resources>

@@ -1,8 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Shopee" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.Shopee" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/lilas</item>
+        <item name="colorPrimaryVariant">#6C5E1981</item>
+        <item name="android:statusBarColor">@color/lilas</item>
     </style>
 
     <style name="Theme.Shopee" parent="Base.Theme.Shopee" />
