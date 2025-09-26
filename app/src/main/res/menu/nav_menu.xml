@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_carro"
+            android:icon="@drawable/iccart"
+            android:title="Carro"/>
+
+        <item
+            android:id="@+id/nav_comida"
+            android:icon="@drawable/iccomida"
+            android:title="Comida"/>
+
+        <item
+            android:id="@+id/nav_brinquedo"
+            android:icon="@drawable/icbrinquedo"
+            android:title="Brinquedos"/>
+
+        <item
+            android:id="@+id/nav_eletronicos"
+            android:icon="@drawable/iceletronicos"
+            android:title="eletrônicos"/>
+
+        <item
+            android:id="@+id/nav_games"
+            android:icon="@drawable/icgames"
+            android:title="Games"/>
+
+        <item
+            android:id="@+id/nav_domesticos"
+            android:icon="@drawable/icdomesticos"
+            android:title="Domésticos"/>
+    </group>
+</menu>
