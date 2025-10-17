@@ -9,7 +9,7 @@
         android:icon="@drawable/icprofile"/>
     <item
         android:title=""
-        android:enable="true"
+        android:enabled="true"
         />
 
     <item

@@ -12,6 +12,6 @@
         android:text="fashion"
         android:gravity="center"
         android:textColor="@color/lilas"
-        android:textSixe="36sp"/>
+        android:textSize="36sp"/>
 
 </FrameLayout>
